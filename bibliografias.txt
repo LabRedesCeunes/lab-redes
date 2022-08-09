@@ -1,0 +1,9 @@
+Bibliografia 1:
+Kurose, J. F.; Ross, K. W. "Redes de computadores e a Internet"
+
+Pode ser acessado através da biblioteca virtual
+
+Bibliografia 2:
+Curso CCNA da Cisco - Modulo 1 - Introdução à Redes
+
+Material disponivel na internet
